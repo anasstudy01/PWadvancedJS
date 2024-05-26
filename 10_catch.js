@@ -12,7 +12,7 @@ function createPromise(time) {
       }
     }, time);
   });
-}
+} 
 
 testing1 = createPromise(1000);
 
